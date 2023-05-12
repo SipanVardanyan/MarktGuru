@@ -7,16 +7,15 @@ update-database -Context IdentityContext
 
 update-database -Context ApplicationDbContext
 
-
 Finally, build and run the Application.
 
-
+#
 Default Roles & Credentials
 
 As soon you build and run your application, default users and roles get added to the database.
 
 
-Default Roles are as follows.
+Default Roles are as follows:
 
 SuperAdmin
 
@@ -27,6 +26,7 @@ Moderator
 Basic
 
 
+#
 Here are the credentials for the default users.
 
 Email - superadmin@gmail.com / Password - 123Pa$$word!
